@@ -1,4 +1,4 @@
-package com.spring.learn.restservice;
+package com.spring.learn.library;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

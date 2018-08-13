@@ -1,4 +1,4 @@
-package com.spring.learn.restservice;
+package com.spring.learn.library;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
